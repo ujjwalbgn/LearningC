@@ -1,0 +1,28 @@
+2013|Best Original Song|Let It Go!
+1977|Best Original Score|Star Wars
+1993|Best Makeup and Hairstyling|Mrs. Doubtfire
+1981|Best Visual Effects|Raiders of the Lost Ark
+1943|Best Picture|Casablanca
+2014|Best Actor|Tom Hanks
+2018|Best Original Song|Let It Go!
+1976|Best Original Score|Star Wars
+1993|Best Makeup and Hairstyling|Mrs. Doubtfire
+1983|Best Visual Effects|Raiders of the Lost Ark
+1942|Best Picture|Casablanca
+2015|Best Actor|Tom Hanks
+2993|Best Makeup and Hairstyling|Mrs. Doubtfire
+2983|Best Visual Effects|Raiders of the Lost Ark
+2942|Best Picture|Casablanca
+2015|Best Actor|Tom Hanks
+1943|Best Picture|Casablanca
+2014|Best Actor|Tom Hanks
+2018|Best Original Song|Let It Go!
+6976|Best Original Score|Star Wars
+4993|Best Makeup and Hairstyling|Mrs. Doubtfire
+3983|Best Visual Effects|Raiders of the Lost Ark
+4942|Best Picture|Casablanca
+3015|Best Actor|Tom Hanks
+5993|Best Makeup and Hairstyling|Mrs. Doubtfire
+7983|Best Visual Effects|Raiders of the Lost Ark
+7942|Best Picture|Casablanca
+4015|Best Actor|Tom Hanks
